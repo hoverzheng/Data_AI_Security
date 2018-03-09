@@ -9,4 +9,6 @@
 
 * [dataversity](http://www.dataversity.net/)
 * [datanami](https://www.datanami.com/)
-* 
+* [数盟社区](http://dataunion.org/)
+* [kdnuggets] (https://www.kdnuggets.com/)
+* [towardsdatascience](https://towardsdatascience.com/)
