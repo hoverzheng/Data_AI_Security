@@ -5,7 +5,7 @@
 * golang-nuts
 * [reddit/r/golang](https://www.reddit.com/r/golang/)
 * slack gopher
-* StackOverflow Go
+* [StackOverflow Go](https://stackoverflow.com/questions/tagged/go)
 * [golangbridge](https://forum.golangbridge.org/latest)
 
 国内的：
