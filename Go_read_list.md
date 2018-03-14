@@ -6,7 +6,7 @@
 * [reddit/r/golang](https://www.reddit.com/r/golang/)
 * slack gopher
 * StackOverflow Go
-* golangbridge
+* [golangbridge](https://forum.golangbridge.org/latest)
 
 国内的：
 * golangtc
