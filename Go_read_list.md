@@ -3,7 +3,7 @@
 # Go学习论坛
 
 * golang-nuts
-* reddit/r/golang
+* (reddit/r/golang)[https://www.reddit.com/r/golang/]
 * slack gopher
 * StackOverflow Go
 * golangbridge
