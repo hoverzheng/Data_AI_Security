@@ -2,7 +2,7 @@
 
 # Go学习论坛
 
-* golang-nuts
+* [golang-nuts](https://groups.google.com/d/forum/golang-nuts)
 * [reddit/r/golang](https://www.reddit.com/r/golang/)
 * slack gopher
 * [StackOverflow Go](https://stackoverflow.com/questions/tagged/go)
