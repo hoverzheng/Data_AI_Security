@@ -15,3 +15,7 @@
 * [towardsdatascience](https://towardsdatascience.com/)
 * [datatau](www.datatau.com)
 * [200+Data Science blogs](https://www.cybrhome.com/topic/data-science-blogs)
+
+
+## 大数据-金融行业
+* [fintechnews](https://www.fintechnews.org/information-technology/big-data/)
