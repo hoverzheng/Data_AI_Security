@@ -14,4 +14,4 @@
 * [kdnuggets](https://www.kdnuggets.com/)
 * [towardsdatascience](https://towardsdatascience.com/)
 * [datatau](www.datatau.com)
-* [200+Data Science blogs] (https://www.cybrhome.com/topic/data-science-blogs)
+* [200+Data Science blogs](https://www.cybrhome.com/topic/data-science-blogs)
