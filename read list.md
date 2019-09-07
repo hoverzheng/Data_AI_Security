@@ -6,6 +6,9 @@
 * [产品壹佰](http://www.chanpin100.com/)
 * [数据联盟](http://dataunion.org/)
 
+## 大数据
+* [dataversity-bigdata](https://www.dataversity.net/category/data-topics/big-data/)
+
 ## 数据科学
 
 * [dataversity](http://www.dataversity.net/)
