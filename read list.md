@@ -8,6 +8,7 @@
 
 ## 大数据
 * [dataversity-bigdata](https://www.dataversity.net/category/data-topics/big-data/)
+* [hackernoon-bigdata](https://hackernoon.com/tagged/big-data)
 
 ## 数据科学
 
@@ -18,6 +19,7 @@
 * [towardsdatascience](https://towardsdatascience.com/)
 * [datatau](www.datatau.com)
 * [200+Data Science blogs](https://www.cybrhome.com/topic/data-science-blogs)
+* [hackernoon-AI](https://hackernoon.com/tagged/artificial-intelligence)
 
 
 ## 大数据-金融行业
