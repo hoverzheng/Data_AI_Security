@@ -20,3 +20,5 @@ CoCounsel 在几分钟内即可完成文件审查、证词准备、合同分析�
 - [Personalize Your Content Recommendations with ChatGPT](https://medium.com/@AIandInsights/personalize-your-content-recommendations-with-chatgpt-dbc7f9d59877)
 - 
 
+### LLM + BI
+
