@@ -2,6 +2,9 @@
 
 
 ## 数据安全解决方案
+#### AI中的隐私保护
+* [Behind the Mask: Navigating Data Privacy in ML and LLMs](https://medium.com/@gokul3.r/behind-the-mask-navigating-data-privacy-in-ml-and-llms-7abc3774c73f
+)
 
 
 ## 数据安全公司和产品
@@ -21,3 +24,4 @@ Masked-AI 是一个 Python SDK 和 CLI 包装器，可以更安全地使用公�
 （2）将请求发送到 API
 （3）然后将敏感数据替换回输出中
 结果是您从 API 获得相同的输出，而无需发送敏感数据。
+
