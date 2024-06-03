@@ -21,4 +21,11 @@ CoCounsel 在几分钟内即可完成文件审查、证词准备、合同分析�
 - 
 
 ### LLM + BI
+1. Dataherald monorepo
 
+Dataherald 是一种自然语言到 SQL 的引擎，专为关系数据的企业级问答而构建。它允许您从数据库中设置一个 API，可以用简单的英语回答问题。您可以使用 Dataherald 来：
+- 允许业务用户从数据仓库中获取见解，而无需通过数据分析师
+- 从 SaaS 应用程序内的生产数据库启用问答
+-  根据您的专有数据创建 ChatGPT 插件
+
+- url: https://github.com/Dataherald/dataherald
