@@ -29,3 +29,4 @@ Dataherald 是一种自然语言到 SQL 的引擎，专为关系数据的企业�
 -  根据您的专有数据创建 ChatGPT 插件
 
 - url: https://github.com/Dataherald/dataherald
+- 文档地址：https://dataherald.readthedocs.io/en/latest/
