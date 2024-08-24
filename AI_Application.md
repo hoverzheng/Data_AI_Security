@@ -30,3 +30,48 @@ Dataherald 是一种自然语言到 SQL 的引擎，专为关系数据的企业�
 
 - url: https://github.com/Dataherald/dataherald
 - 文档地址：https://dataherald.readthedocs.io/en/latest/
+
+
+
+### LLM和文本分类
+
+
+* https://arxiv.org/html/2405.10523v1
+
+* https://github.com/yeyimilk/llm-zero-shot-classifiers
+
+  说明：一篇论文，用来说明通过LLM进行文本分类的方法，并提供了源码。
+
+* https://engineering.grab.com/llm-powered-data-classification
+
+  说明： 一篇论文，通过大模型的方式对数据库中的字段进行标签识别，告诉了具体的方法，但没有给大模型效果的评估方式。
+
+* https://blog.datahubproject.io/pii-classification-just-got-easier-with-datahub-6bab2b63abcb
+
+  说明：数据分类的一个产品datahub
+
+* https://datasciencecampus.ons.gov.uk/classifai-exploring-the-use-of-large-language-models-llms-to-assign-free-text-to-commonly-used-classifications/
+
+  说明：一个开源的ai分类器，
+
+* https://github.com/lamini-ai/llm-classifier
+
+  说明：一个简单的开源数据分类器，基于llm实现。
+
+* https://www.vellum.ai/blog/automatic-data-labeling-with-llms
+
+  说明：一个数据分类产品，基于llm实现。
+
+* https://medium.com/geekculture/how-to-label-text-data-using-llms-f0ffc3fcd168
+
+  说明：文本标签识别；
+
+* https://medium.com/google-cloud/dataplex-data-catalog-tagging-operations-and-business-metadata-part-3-2-d0fc27699632
+
+  说明：google的dataplex平台
+
+* https://github.com/refuel-ai/autolabel
+
+  说明：一个数据标签开源软件。基于llm实现。
+
+* 
