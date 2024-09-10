@@ -61,3 +61,7 @@
   - [RAG流水线模型](https://tczjw7bsp1.feishu.cn/docx/A5JFd3vcGokY94xcNogcfuNSnJb?from=from_copylink)
 - [Optimizing RAG for LLMs Apps](https://medium.com/@bijit211987/optimizing-rag-for-llms-apps-53f6056d8118)
 - [NVIDIA Advanced Document Question-Answering with LlamaIndex](https://github.com/NVIDIA/GenerativeAIExamples/blob/main/notebooks/04_llamaindex_hier_node_parser.ipynb)
+
+
+* [RAG LLM Best Practices] (https://medium.com/israeli-tech-radar/rag-llm-best-practices-1bced251201f)
+  
